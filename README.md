@@ -1,5 +1,6 @@
 # Product biografie
 ## Week 1
+Debriefing: https://docs.google.com/document/d/1k6jxrWo8OHFOuZHMdzcoYmvllLn1UZRwva9E6VF0YwA/edit?usp=sharing
 
 ## Week 2
 
