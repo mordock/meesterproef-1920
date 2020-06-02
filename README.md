@@ -1,3 +1,10 @@
+# Product biografie
+## Week 1
+
+## Week 2
+
+## Week 3
+
 # Meesterproef @cmda-minor-web 1920
 
 In de Meesterproef ga je toepassen wat je in de Minor Web Development hebt geleerd.
