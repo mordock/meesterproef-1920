@@ -2,7 +2,13 @@
 ## Week 1
 Debriefing: https://docs.google.com/document/d/1k6jxrWo8OHFOuZHMdzcoYmvllLn1UZRwva9E6VF0YwA/edit?usp=sharing
 
+Deze week zijn we samen met Dalton(de opdrachtgever) door de app heen gegaan en hebben we bekeken wat we moeten doen. We hebben de opdracht besproken en hebben alle bestaande features van de site bekeken. Hiermee hebben we een lijst opgebouwd met dingen die er aan de site moeten gebeuren. Deze lijst hebben we op een Trello achtig programma gezet waar Dalton bekend mee is, Jira.  
+[Jira image]
+Hier hebben met volgens de scrum methode punten aan moeten toewijzen om te laten zien hoeveel werk een feature is.  
+Donderdag en vrijdag waren vrije dagen
+
 ## Week 2
+
 
 ## Week 3
 
