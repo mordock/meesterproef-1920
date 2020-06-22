@@ -8,9 +8,23 @@ Hier hebben met volgens de scrum methode punten aan moeten toewijzen om te laten
 Donderdag en vrijdag waren vrije dagen
 
 ## Week 2
+Op maandag haddden we onze eerste standup, hierin moesten we vertellen wat we dag ervoor hadden gedaan, wat we gaan doen en of er verwachtte problemen zijn. Diezelfde dag had ik samen met Dalton en Ivo een gesprek over gamification, hierin hadden we besloten om  challenges toe te voegen zoals onderanderen gevonden in de app Strava.
+[strava challenges image]
+Hiermee hoopten we gebruikers te stimuleren om actief met de website om te gaan. 
+Dinsdag was weer een standup en we moesten alle taken die we op Jira hadden gezet voorzien van label en subtaken. Hier waren we niet helemaal voor omdat we bang waren dit het process zoals het werd voorgesteld mogelijk te veel tijd zo kosten. Vandaag had was ik ook met de schets van het leaderboard begonnen. 
+Woensdag heb ik de eerste schets van het leaderboard aan Dalton laten zien.
+[eerste leaderboard image]
+Wat uiteindelijk dus bleek was dat Dalton en ik elkaar verkeerd hadden begrepen. Hij was meer op zoek naar een dashboard idee en ik mijn idee was dat je tabbladen had waar je doorheen kon gaan om verschillende ranglijsten te zien. Dit hebben we besproken en hier ben ik verder op gegaan. 
+Deze donderdag was ik afwezig.
 
 
 ## Week 3
+
+
+## Week 4
+
+
+## Week 5
 
 # Meesterproef @cmda-minor-web 1920
 
