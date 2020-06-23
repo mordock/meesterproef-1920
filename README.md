@@ -8,17 +8,34 @@ Hier hebben met volgens de scrum methode punten aan moeten toewijzen om te laten
 Donderdag en vrijdag waren vrije dagen
 
 ## Week 2
-Op maandag haddden we onze eerste standup, hierin moesten we vertellen wat we dag ervoor hadden gedaan, wat we gaan doen en of er verwachtte problemen zijn. Diezelfde dag had ik samen met Dalton en Ivo een gesprek over gamification, hierin hadden we besloten om  challenges toe te voegen zoals onderanderen gevonden in de app Strava.
+Op maandag haddden we onze eerste standup, hierin moesten we vertellen wat we dag ervoor hadden gedaan, wat we gaan doen en of er verwachtte problemen zijn. Diezelfde dag had ik samen met Dalton en Ivo een gesprek over gamification, hierin hadden we besloten om  challenges toe te voegen zoals onderanderen gevonden in de app Strava. 
 [strava challenges image]
 Hiermee hoopten we gebruikers te stimuleren om actief met de website om te gaan. 
+Aan het einde van die dag heb ik hier een klein documentje over geschreven. Hierin beschrijf ik dingen zoals de challenges en het idee hierachter, wat karma is en wat het leaderboard inhoudt. 
+
 Dinsdag was weer een standup en we moesten alle taken die we op Jira hadden gezet voorzien van label en subtaken. Hier waren we niet helemaal voor omdat we bang waren dit het process zoals het werd voorgesteld mogelijk te veel tijd zo kosten. Vandaag had was ik ook met de schets van het leaderboard begonnen. 
+
 Woensdag heb ik de eerste schets van het leaderboard aan Dalton laten zien.
 [eerste leaderboard image]
-Wat uiteindelijk dus bleek was dat Dalton en ik elkaar verkeerd hadden begrepen. Hij was meer op zoek naar een dashboard idee en ik mijn idee was dat je tabbladen had waar je doorheen kon gaan om verschillende ranglijsten te zien. Dit hebben we besproken en hier ben ik verder op gegaan. 
+Bij dit gesprek had ik ook een voorstel aan het gedaan om je achievements in een ranglijst te zetten, dit heeft minder het gevoel dat je echt tegen elkaar aan het spelen bent en meer laat zien als iemands iets goeds heeft gedaan en dat je dan de achievement ziet. 
+Vandaag hedden we ook met Koop gesproken en was het duidelijk geworden dat de manier waarop we nu werken, dat we de meesterproef niet gaan halen. Dit hebben we met Dalton en Ivo besproken en uiteindelijk zijn we eruit gekomen dat we zelf een server gaan opzetten met een site, en een demo voor hem gaan maken die ze wel of niet kunnen gebruiker waar ze dat willen. 
+
 Deze donderdag was ik afwezig.
 
+Vrijdag had ik de achievement ranglijst van woensdag gemaakt.
+[tweede leaderboard image]
+Vandaag was ik ook begonnen met de server opzetten om mijn computer, daarnaast heb ik een klein begin gemaakt aan de leaderboard.
+[eerste server leaderboard]
 
 ## Week 3
+Maandag waren we vrij.
+
+Dinsdag heb ik verder gewerkt aan het leaderboard, ik heb de tabs toegevoegd zodat je tussen meerdere lijsten kan wisselen. 
+[tweede server leaderboard]
+Daarnaast ben ik met mijn tweede pagina begonnen, het profiel. Monika had hiervoor als een schets gemaakt die ik als basis gebruikt voor het design. 
+[eerste server profiel]
+
+Woensdag 
 
 
 ## Week 4
