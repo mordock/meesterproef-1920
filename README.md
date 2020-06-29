@@ -35,8 +35,7 @@ Dinsdag heb ik verder gewerkt aan het leaderboard, ik heb de tabs toegevoegd zod
 Daarnaast ben ik met mijn tweede pagina begonnen, het profiel. Monika had hiervoor als een schets gemaakt die ik als basis gebruikt voor het design. 
 [eerste server profiel]
 
-Woensdag 
-
+Woensdag ben ik verder gegaan met het prfiel
 
 ## Week 4
 
