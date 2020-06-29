@@ -43,7 +43,7 @@ Daarnaast heb ik nog wat kleine aanpassingen aan het leaderboard gemaakt.
 Donderdag had ik in de middag een gesprek met Dalton en Ivo waar veel belangrijke informatie naar voren in gekomen. Het blijkt dus dat Dalton en ik een beetje langs elkaar zijn gaan praten. Voor het leaderboard had ik een tabblad idee in gedachten, dat je door meerdere lijsten kan selecteren. Wat Dalton in gedachten had was meer een dashboard idee. Na dit gesprek en alles goed te hebben nagepraat ben ik met een nieuwe versie begonnen om te kijken om te kijken wat beter zou werken. 
 Hier was ik op het einde van de dag aan begonnen.
 
-Op vrijdag hadden we in de ochtend een grote design meeting met Dalton over de hele website. 
+Op vrijdag hadden we in de ochtend een grote design meeting met Dalton over de hele website. Hierbinnen was mijn deel wat kleiner omdat ik Dalton gisteren al uitgebreid had gesproken. De feedback ging dus vooral over het profiel, hier gaf hij aan dat veel dingen in de app verticaal staan en dat enkele van mijn onderdelen horizontaal staan, dus dat ga ik aanpassen. 
 ## Week 4
 
 
