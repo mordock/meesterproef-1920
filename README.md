@@ -24,19 +24,26 @@ Deze donderdag was ik afwezig.
 
 Vrijdag had ik de achievement ranglijst van woensdag gemaakt.
 [tweede leaderboard image]
-Vandaag was ik ook begonnen met de server opzetten om mijn computer, daarnaast heb ik een klein begin gemaakt aan de leaderboard.
-[eerste server leaderboard]
+Vandaag was ik ook begonnen met de server opzetten om mijn computer, daarnaast heb ik een klein begin gemaakt aan de leaderboard.  
+![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/Screenshot_9.png)
 
 ## Week 3
 Maandag waren we vrij.
 
-Dinsdag heb ik verder gewerkt aan het leaderboard, ik heb de tabs toegevoegd zodat je tussen meerdere lijsten kan wisselen. 
-[tweede server leaderboard]
-Daarnaast ben ik met mijn tweede pagina begonnen, het profiel. Monika had hiervoor als een schets gemaakt die ik als basis gebruikt voor het design. 
-[eerste server profiel]
+Dinsdag heb ik verder gewerkt aan het leaderboard, ik heb de tabs toegevoegd zodat je tussen meerdere lijsten kan wisselen.  
+![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/Screenshot_10.png)
+Daarnaast ben ik met mijn tweede pagina begonnen, het profiel. Monika had hiervoor als een schets gemaakt die ik als basis gebruikt voor het design.  
+![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/Screenshot_11.png)
 
-Woensdag ben ik verder gegaan met het prfiel
+Woensdag ben ik verder gegaan met het prfiel, hier heb ik veel voortgang mee kunnen maken. Alle elementen die op het profiel horen te staan, zijn nu aanwezig.
+[screenshot 12]
+Daarnaast heb ik nog wat kleine aanpassingen aan het leaderboard gemaakt.
+[screenshot 13]
 
+Donderdag had ik in de middag een gesprek met Dalton en Ivo waar veel belangrijke informatie naar voren in gekomen. Het blijkt dus dat Dalton en ik een beetje langs elkaar zijn gaan praten. Voor het leaderboard had ik een tabblad idee in gedachten, dat je door meerdere lijsten kan selecteren. Wat Dalton in gedachten had was meer een dashboard idee. Na dit gesprek en alles goed te hebben nagepraat ben ik met een nieuwe versie begonnen om te kijken om te kijken wat beter zou werken. 
+Hier was ik op het einde van de dag aan begonnen.
+
+Op vrijdag hadden we in de ochtend een grote design meeting met Dalton over de hele website. 
 ## Week 4
 
 
