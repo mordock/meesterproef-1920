@@ -3,27 +3,27 @@
 Debriefing: https://docs.google.com/document/d/1k6jxrWo8OHFOuZHMdzcoYmvllLn1UZRwva9E6VF0YwA/edit?usp=sharing
 
 Deze week zijn we samen met Dalton(de opdrachtgever) door de app heen gegaan en hebben we bekeken wat we moeten doen. We hebben de opdracht besproken en hebben alle bestaande features van de site bekeken. Hiermee hebben we een lijst opgebouwd met dingen die er aan de site moeten gebeuren. Deze lijst hebben we op een Trello achtig programma gezet waar Dalton bekend mee is, Jira.  
-[Jira image]
+![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/Screenshot_3.png)
 Hier hebben met volgens de scrum methode punten aan moeten toewijzen om te laten zien hoeveel werk een feature is.  
 Donderdag en vrijdag waren vrije dagen
 
 ## Week 2
 Op maandag haddden we onze eerste standup, hierin moesten we vertellen wat we dag ervoor hadden gedaan, wat we gaan doen en of er verwachtte problemen zijn. Diezelfde dag had ik samen met Dalton en Ivo een gesprek over gamification, hierin hadden we besloten om  challenges toe te voegen zoals onderanderen gevonden in de app Strava. 
-![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/Screenshot_3.png)
+![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/trophies.png)
 Hiermee hoopten we gebruikers te stimuleren om actief met de website om te gaan. 
 Aan het einde van die dag heb ik hier een klein documentje over geschreven. Hierin beschrijf ik dingen zoals de challenges en het idee hierachter, wat karma is en wat het leaderboard inhoudt. 
 
 Dinsdag was weer een standup en we moesten alle taken die we op Jira hadden gezet voorzien van label en subtaken. Hier waren we niet helemaal voor omdat we bang waren dit het process zoals het werd voorgesteld mogelijk te veel tijd zo kosten. Vandaag had was ik ook met de schets van het leaderboard begonnen. 
 
 Woensdag heb ik de eerste schets van het leaderboard aan Dalton laten zien.
-[eerste leaderboard image]
+![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/leaderboard-1.png)
 Bij dit gesprek had ik ook een voorstel aan het gedaan om je achievements in een ranglijst te zetten, dit heeft minder het gevoel dat je echt tegen elkaar aan het spelen bent en meer laat zien als iemands iets goeds heeft gedaan en dat je dan de achievement ziet. 
 Vandaag hedden we ook met Koop gesproken en was het duidelijk geworden dat de manier waarop we nu werken, dat we de meesterproef niet gaan halen. Dit hebben we met Dalton en Ivo besproken en uiteindelijk zijn we eruit gekomen dat we zelf een server gaan opzetten met een site, en een demo voor hem gaan maken die ze wel of niet kunnen gebruiker waar ze dat willen. 
 
 Deze donderdag was ik afwezig.
 
 Vrijdag had ik de achievement ranglijst van woensdag gemaakt.
-[tweede leaderboard image]
+![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/Leaderboard%20Achievements.png)
 Vandaag was ik ook begonnen met de server opzetten om mijn computer, daarnaast heb ik een klein begin gemaakt aan de leaderboard.  
 ![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/Screenshot_9.png)
 
