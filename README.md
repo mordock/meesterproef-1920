@@ -9,7 +9,7 @@ Donderdag en vrijdag waren vrije dagen
 
 ## Week 2
 Op maandag haddden we onze eerste standup, hierin moesten we vertellen wat we dag ervoor hadden gedaan, wat we gaan doen en of er verwachtte problemen zijn. Diezelfde dag had ik samen met Dalton en Ivo een gesprek over gamification, hierin hadden we besloten om  challenges toe te voegen zoals onderanderen gevonden in de app Strava. 
-[strava challenges image]
+![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/Screenshot_3.png)
 Hiermee hoopten we gebruikers te stimuleren om actief met de website om te gaan. 
 Aan het einde van die dag heb ik hier een klein documentje over geschreven. Hierin beschrijf ik dingen zoals de challenges en het idee hierachter, wat karma is en wat het leaderboard inhoudt. 
 
@@ -36,9 +36,9 @@ Daarnaast ben ik met mijn tweede pagina begonnen, het profiel. Monika had hiervo
 ![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/Screenshot_11.png)
 
 Woensdag ben ik verder gegaan met het prfiel, hier heb ik veel voortgang mee kunnen maken. Alle elementen die op het profiel horen te staan, zijn nu aanwezig.
-[screenshot 12]
-Daarnaast heb ik nog wat kleine aanpassingen aan het leaderboard gemaakt.
-[screenshot 13]
+![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/Screenshot_12.png)  
+Daarnaast heb ik nog wat kleine aanpassingen aan het leaderboard gemaakt.  
+![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/Screenshot_13.png)  
 
 Donderdag had ik in de middag een gesprek met Dalton en Ivo waar veel belangrijke informatie naar voren in gekomen. Het blijkt dus dat Dalton en ik een beetje langs elkaar zijn gaan praten. Voor het leaderboard had ik een tabblad idee in gedachten, dat je door meerdere lijsten kan selecteren. Wat Dalton in gedachten had was meer een dashboard idee. Na dit gesprek en alles goed te hebben nagepraat ben ik met een nieuwe versie begonnen om te kijken om te kijken wat beter zou werken. 
 Daarnaast wilde hij ook dat er een knop kwam om challenges toe te voegen, hier had hij wat voorbeeld pagina's van laten zien. Dit hoeven wij niet te maken, maar we moten het wel meenemen in het design.
@@ -46,31 +46,31 @@ Hier was ik op het einde van de dag aan begonnen.
 
 Op vrijdag hadden we in de ochtend een grote design meeting met Dalton over de hele website. Hierbinnen was mijn deel wat kleiner omdat ik Dalton gisteren al uitgebreid had gesproken. De feedback ging dus vooral over het profiel, hier gaf hij aan dat veel dingen in de app verticaal staan en dat enkele van mijn onderdelen horizontaal staan, dus dat ga ik aanpassen. De rest van de dag had ik nog wat aan het leaderboard gewerkt. 
 ## Week 4
-Maandag had ik veel voortgang gemaakt met het leaderboard. Het idee van een dashboard komt nu heel goed naar voren. 
-[Screenshot 14]
-Hierbij gebruik ik 1 helft van het scherm voor karma en de anders voor challenges/achievements. En bovenaan kan je dan je team selecteren. 
+Maandag had ik veel voortgang gemaakt met het leaderboard. Het idee van een dashboard komt nu heel goed naar voren.   
+![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/Screenshot_14.png)  
+Hierbij gebruik ik 1 helft van het scherm voor karma en de anders voor challenges/achievements. En bovenaan kan je dan je team selecteren.   
 
 Op dinsdag had ik nog verder gewerkt aan het design, ik had nu ook meenenomen dat je een challenge moest kunnen toevoegen. In de middag hadden we allemaal nog een individueel gesprek met Dalton. Ik had samen met hem nog meer over gamification gesproken en hoe die challgenges eruit moesten gaan zien. Daarnaast had ik nog een voorstel gedaan voor de gamification om animaties toe te voegen. Hier zou ik een voorbeeld voor gaan maken.
-Dit is hoe het leaderboard eruit zag op het einde van de dag:
-[Screenshot 15]
+Dit is hoe het leaderboard eruit zag op het einde van de dag:  
+![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/Screenshot_15.png)  
 
 Woensdag hadden wij eerst de code reviews, hier had ik om tips voor animaties gevraagd. Ik had enkele goed resources gekregen van mijn medestudenten zoals:
 https://www.sinds1971.nl/cssvoordedames/11-alles-tesaam.html
 In de middag had ik enkele voorbeeld animaties gemaakt om aan Dalton te laten zien. Uiteindelijk koos hij voor degene waar een lotusbloem open gaat en daaruit komen de punten. Hier ben ik daarna ook mee begonnen, maar ik heb nog niks om te laten zien. 
 
-Donderdag hebben we de leaderboard in de nieuwe layout gezet, daarnaast heb ik ook wat styling dingen aangepast zodat alles ook gelijk staat:
-[Screenshot 16]
+Donderdag hebben we de leaderboard in de nieuwe layout gezet, daarnaast heb ik ook wat styling dingen aangepast zodat alles ook gelijk staat:  
+![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/Screenshot_16.png)  
 
 Vrijdag hadden we weer een gesprek met Dalton en Ivo voor een grote feedback ronde. Hier kon ik nog niet de animatie laten zien omdat ik op het leaderboard had gefocussed. Hier waren ze blij mee en ze vonden dat het een goede vooruitgang was. 
 
 ## Week 5
-Op maandag heb ik de animatie afgemaakt. 
-[screenshot 17]
+Op maandag heb ik de animatie afgemaakt.  
+![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/Screenshot_17.png)   
 Deze wordt nu alleen gespeeld nadat je een compliment geeft, maar hij moet ook afgespeeld worden als je een doel voltooid. 
 In de middag hadden we ook nog gesprekjes met Dalton om te laten zien waar we stonden. Tijdens mijn gesprek wilde Dalton dat ik de assessment pagina zou maken en minder focus zou leggen om de gamification. 
 
-Op dinsdag heb de de assessment pagina in elkaar gezet.
-[screenshot 18]
+Op dinsdag heb de de assessment pagina in elkaar gezet.  
+![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/Screenshot_18.png)  
 Deze bestaat uit 2 soorten, eigen assessments en team assessments. Je eigen gaan over jou sterkte kanten, en kijken wat die zijn. Team assessments gaan over kijken wat de sterke kanten van je teamgenoten zijn en kijken of je het daar mee eens bent.
 
 Woensdag hadden zijn we als team door de app heen gegaan en hebben we alle laatste kleine dingen verbeterd. Ik heb ook nog even de animatie toegevoegd wanneer je een doel behaald. 
