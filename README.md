@@ -1,9 +1,26 @@
+# Team
+Deze applicatie is gebouwd in samenwerking met:
+
+- [Stefan Gerrits](https://github.com/StefanGerrits2/meesterproef-1920)
+- [Michel Abdad](https://github.com/mich97)
+- [Max Weijers](https://github.com/mordock)
+- [Reinier van Limpt](https://github.com/reiniervanlimpt)
+
+## coach:
+- [Koop Reynders](https://github.com/KoopReynders)
+
 # Lyvup
 ## Project Repo
 https://github.com/StefanGerrits2/Lyvup-prototype
 
 ## Live link
 https://lyvup.herokuapp.com/
+
+## Design Rationale:
+[https://github.com/StefanGerrits2/Lyvup-prototype/wiki](https://github.com/StefanGerrits2/Lyvup-prototype/wiki)
+
+## style guide
+[https://reiniervanlimpt.github.io/Lyvup-styling/index.html](https://reiniervanlimpt.github.io/Lyvup-styling/index.html)
 
 # Product biografie
 ## Week 1
