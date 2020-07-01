@@ -78,3 +78,5 @@ Na deze styling ronde is de app geworden zoals die nu is: https://lyvup.herokuap
 
 Donderdag hadden we het eindgesprek met Dalton, daar hadden we de laatste dingen laten zien die hij nog niet wist zoals de onboarding en landing pagina. Hij was heel erg bij met het resultaat en het leek alsof hij meteen wilde beginnen met het overzetten naar zijn eigen site. 
 Het enigste wat we echt nog hebben aangepast is wat logs weggehaald. 
+
+# Reflectie
