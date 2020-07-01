@@ -80,3 +80,26 @@ Donderdag hadden we het eindgesprek met Dalton, daar hadden we de laatste dingen
 Het enigste wat we echt nog hebben aangepast is wat logs weggehaald. 
 
 # Reflectie
+
+## Web App From Scratch
+Voor dit project heb ik niet met de API gewerkt omdat het leaderboard, waar ik het meeste aan heb gewerkt, nog niet in de API stond. Informatie over karma, achievements en challenges bestond nog niet en moest nu dus gefaked worden.
+[screenshot 19]
+Hetzelfde geldt voor delen van het profiel die ook die elementen heeft. Alhoewel heeft het profiel wel enkele elementen die wel uit de API gehaald hadden kunnen worden. Dit vond ik voor dit geval echter niet nodig. Voor het profiel was het punt dat er een layout bestond, niet dat er echte informatie in stond.  
+Hier heb ik dus uiteindelijk voor besloten om dit niet toe te passen in mijn pagina's.
+
+## CSS To The Rescue
+### The student understands the broader scope of CSS
+
+### The student understands the progressive enhancement parts of CSS
+
+### The student understands the interactive parts of CSS
+
+### The student has been experimenting
+## Browser Tech
+
+## Web Design
+
+## Progressive web apps
+
+## Real Time Web
+Dit vak heb ik niet toegepast binnen dit project. Bij de onderdelen waar ik mee bezig was en wat de opdrachtgever van mij verwachtte was dat ook niet nodig. Bij een volgend project zou ik dit mogelijk wel gebruiken als dit een vereiste is. 
