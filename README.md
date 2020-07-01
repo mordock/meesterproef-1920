@@ -86,8 +86,9 @@ In de middag had ik enkele voorbeeld animaties gemaakt om aan Dalton te laten zi
 
 Donderdag hebben we de leaderboard in de nieuwe layout gezet, daarnaast heb ik ook wat styling dingen aangepast zodat alles ook gelijk staat:  
 ![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/Screenshot_16.png)  
+In de middag had ik ook de design review, hier had ik weer om meer tips voor animaties gevraagd om zeker te zijn dat ik voorbereid was om alles te maken. Hier kreeg ik weer enkele goed resources zoals https://animate.style/. Deze wilde ik als voorbeeld gebruiken om dan zelf de animaties te maken.
 
-Vrijdag hadden we weer een gesprek met Dalton en Ivo voor een grote feedback ronde. Hier kon ik nog niet de animatie laten zien omdat ik op het leaderboard had gefocussed. Hier waren ze blij mee en ze vonden dat het een goede vooruitgang was. 
+Vrijdag hadden we weer een gesprek met Dalton en Ivo voor een grote feedback ronde. Hier kon ik nog niet de animatie laten zien omdat ik op het leaderboard had gefocussed. Hier waren ze blij mee en ze vonden dat het een goede vooruitgang was. Er waren wel enkele kleine puntjes die ik moest oplossen zoals wat marges aanpassen.
 
 ## Week 5
 Op maandag heb ik de animatie afgemaakt.  
@@ -111,14 +112,14 @@ Het enigste wat we echt nog hebben aangepast is wat logs weggehaald.
 Voor dit project heb ik niet met de API gewerkt omdat het leaderboard, waar ik het meeste aan heb gewerkt, nog niet in de API stond. Informatie over karma, achievements en challenges bestond nog niet en moest nu dus gefaked worden.  
 ![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/Screenshot_19.png)  
 Hetzelfde geldt voor delen van het profiel die ook die elementen heeft. Alhoewel heeft het profiel wel enkele elementen die wel uit de API gehaald hadden kunnen worden. Dit vond ik voor dit geval echter niet nodig. Voor het profiel was het punt dat er een layout bestond, niet dat er echte informatie in stond.  
-Hier heb ik dus uiteindelijk voor besloten om dit niet toe te passen in mijn pagina's.
+Daarom heb ik dus uiteindelijk voor besloten om dit niet toe te passen in mijn pagina's.
 
 ## CSS To The Rescue
 ### The student understands the broader scope of CSS
 Tijdens dit project heb ik CSS gebruikt voor syling, interactiviteit, responsiveness en animaties om te laten zien wat ik met CSS kan. Deze onderdelen worden in de volgende delen beschreven. 
 
 ### The student understands the progressive enhancement parts of CSS
-In mijn project maak ik onderandere gebruikt van classes, ID's en nesting in SCSS om een zo duidelijk mogelijke code te schrijven.  
+In mijn project maak ik onderandere gebruikt van classes, ID's en nesting in SCSS om een zo duidelijk mogelijke code te schrijven. Nesting had ik zelf hiervoor nog nooit gebruikt, maar na dit project kan ik het in volgende projecten ook gebruiken en toepassen. 
 ![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/Screenshot_20.png)  
 
 Ook heb ik geprobeerd om css classes te maken die herbruikbaar zijn voor mij en mijn team.  
@@ -138,7 +139,7 @@ Daarnaast ook met media queries gewerkt om de site responsive te maken. Dit is i
 ## Browser Tech
 De merendeel van de site werkt zonder Javascript, sommige pagina's zijn alleen wat onoverzichtelijker vanwege inklapbare delen die allemaal zijn uitgeklapt.  
 
-Dingen zoals functionaliteit voor screenreaders zijn we helaas niet aan toe gekomen. Onze site heeft wel goed contrast op de meeste plekken, knoppen vallen op omdat we vooral kleuren zoals groen daarvoor gebruiken. Daarnaast hebben veel elementen borders om ervoor te zorgen dat ze duidelijk van de achtergrond afstaan. 
+Dingen zoals functionaliteit voor screenreaders zijn we helaas niet aan toe gekomen. Onze site heeft wel goed contrast op de meeste plekken en knoppen vallen op omdat we vooral kleuren met veel contrast zoals groen daarvoor gebruiken. Daarnaast hebben veel elementen shadows gegeven om ervoor te zorgen dat ze duidelijk van de achtergrond afstaan. 
 
 ## Web Design
 Tijdens dit project hadden we een customer journey voor de site gemaakt. Hierin wilde bij de doelen en belangrijke punten van de gebruiker voor onszelf duidleijk maken.  
@@ -150,7 +151,7 @@ Voor het leaderboard was het op het eind duidelijk dat er veel informatie op een
 
 Daarnaast zijn de animaties die gemaakt zijn weer meer een onderdeel van "add nonsense" omdat ze proberen de site wat speelser en minder serieus te maken. Dit was een belangrijk onderdeel van de gamification die is toegepast. 
 
-Voor dit project hebben we uiteindelijk niet met mensen getest, alleen het werk aan Dalton en Ivo laten zien. Dit is iets wat ik bij een volgende sprint zeker zou doen. Hoewel de feedback die we kregen al veel onduidelijkheden uit de site heeft gehaald zullen er zeker nog dingen inzitten die beter kunnen. Met goede user tests zouden deze laatste punten er mogelijk ook nog uitgehaald kunnen worden. 
+Voor dit project hebben we uiteindelijk niet met mensen getest, we hebben alleen het werk aan Dalton en Ivo laten zien. Dit is iets wat ik bij een volgende sprint zeker zou doen. Hoewel de feedback die we kregen al veel onduidelijkheden uit de site heeft gehaald. Er zullen er zeker nog dingen inzitten die beter kunnen. Met goede user tests zouden deze laatste punten er mogelijk ook nog uitgehaald kunnen worden. 
 
 ## Progressive web apps
 We hebben enkele stappen genomen om de critical rendering path van de site te verbeteren.
@@ -160,6 +161,8 @@ We hebben enkele stappen genomen om de critical rendering path van de site te ve
 
 ![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/Screenshot_22.png)  
 ![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/Screenshot_23.png)  
+
+We hadden helaas geen tijd om een service worker op te zetten. Dit zou de performance van de site nog veel kunnen verbeteren. 
 
 ## Real Time Web
 Dit vak heb ik niet toegepast binnen dit project. Bij de onderdelen waar ik mee bezig was en wat de opdrachtgever van mij verwachtte was dat ook niet nodig. Bij een volgend project zou ik dit mogelijk wel gebruiken als dit een vereiste is. 
