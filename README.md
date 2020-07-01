@@ -1,3 +1,5 @@
+# Meesterproef @cmda-minor-web 1920
+
 # Team
 Deze applicatie is gebouwd in samenwerking met:
 
@@ -136,6 +138,16 @@ Daarnaast ook met media queries gewerkt om de site responsive te maken. Dit is i
 ## Browser Tech
 
 ## Web Design
+Tijdens dit project hadden we een customer journey voor de site gemaakt. Hierin wilde bij de doelen en belangrijke punten van de gebruiker voor onszelf duidleijk maken.
+[customer journey]
+
+Voor dit project heb ik ook enkele inclusive en exclusive design principles geprobeerd te volgen waar ik deze nodig vond. De site heeft een duidelijke samenhang daarom was het belangrijk dat ik "be consistent" volgde zodat mijn pagina's en onderdelen bij de rest paste. Het was moeilijk om hier ver vanaf te gaan omdat het punt van de site was dat het als een groot product zou voelen.
+
+Voor het leaderboard was het op het eind duidelijk dat er veel informatie op een scherm moest komen te staan. Daarom ben ik later sterk over gegaan naar de principle "prioritise content" om ervoor te zorgen dat alles duidelijk en overzichtelijk op de pagina kwam te staan.
+
+Daarnaast zijn de animaties die gemaakt zijn weer meer een onderdeel van "add nonsense" omdat ze proberen de site wat speelser en minder serieus te maken. Dit was een belangrijk onderdeel van de gamification die is toegepast. 
+
+Voor dit project hebben we uiteindelijk niet met mensen getest, alleen het werk aan Dalton en Ivo laten zien. Dit is iets wat ik bij een volgende sprint zeker zou doen. Hoewel de feedback die we kregen al veel onduidelijkheden uit de site heeft gehaald zullen er zeker nog dingen inzitten die beter kunnen. Met goede user tests zouden deze laatste punten er mogelijk ook nog uitgehaald kunnen worden. 
 
 ## Progressive web apps
 
