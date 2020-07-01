@@ -108,8 +108,8 @@ Het enigste wat we echt nog hebben aangepast is wat logs weggehaald.
 # Reflectie
 
 ## Web App From Scratch
-Voor dit project heb ik niet met de API gewerkt omdat het leaderboard, waar ik het meeste aan heb gewerkt, nog niet in de API stond. Informatie over karma, achievements en challenges bestond nog niet en moest nu dus gefaked worden.
-[screenshot 19]
+Voor dit project heb ik niet met de API gewerkt omdat het leaderboard, waar ik het meeste aan heb gewerkt, nog niet in de API stond. Informatie over karma, achievements en challenges bestond nog niet en moest nu dus gefaked worden.  
+![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/Screenshot_19.png)  
 Hetzelfde geldt voor delen van het profiel die ook die elementen heeft. Alhoewel heeft het profiel wel enkele elementen die wel uit de API gehaald hadden kunnen worden. Dit vond ik voor dit geval echter niet nodig. Voor het profiel was het punt dat er een layout bestond, niet dat er echte informatie in stond.  
 Hier heb ik dus uiteindelijk voor besloten om dit niet toe te passen in mijn pagina's.
 
@@ -118,28 +118,31 @@ Hier heb ik dus uiteindelijk voor besloten om dit niet toe te passen in mijn pag
 Tijdens dit project heb ik CSS gebruikt voor syling, interactiviteit, responsiveness en animaties om te laten zien wat ik met CSS kan. Deze onderdelen worden in de volgende delen beschreven. 
 
 ### The student understands the progressive enhancement parts of CSS
-In mijn project maak ik onderandere gebruikt van classes, ID's en nesting in SCSS om een zo duidelijk mogelijke code te schrijven.
-[screenshot 20]
+In mijn project maak ik onderandere gebruikt van classes, ID's en nesting in SCSS om een zo duidelijk mogelijke code te schrijven.  
+![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/Screenshot_20.png)  
 
-Ook heb ik geprobeerd om css classes te maken die herbruikbaar zijn voor mij en mijn team.
-[screenshot 21]
+Ook heb ik geprobeerd om css classes te maken die herbruikbaar zijn voor mij en mijn team.  
+![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/Screenshot_21.png)  
 Bijvoorbeeld deze flex class die ikzelf vaak gebruik omdat veel elementen in ons design horizontaal staan bijvoorbeeld. 
 
 ### The student understands the interactive parts of CSS
-Ik gebruikt meerdere hover effecten om belangrijke of klikbare elementen weer te geven, zoals de achievements die wat tekst laten zien of de challenges die onder een bepaald thema horen.
-[hover gif]
+Ik gebruikt meerdere hover effecten om belangrijke of klikbare elementen weer te geven, zoals de achievements die wat tekst laten zien of de challenges die onder een bepaald thema horen.  
+![gif](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/hover.gif)  
 
 ### The student has been experimenting
-Voor het gamification onderdeel van dit project heb ik een animatie gemaakt die onderandere gebruik maakt van rotatie en speciale pivot-points om ervoor te zorgen dat het op een bloem lijkt. Dit waren onderdelen die ik hiervoor nog niet had gebruikt. 
-[lotus gif]
+Voor het gamification onderdeel van dit project heb ik een animatie gemaakt die onderandere gebruik maakt van rotatie en speciale pivot-points om ervoor te zorgen dat het op een bloem lijkt. Dit waren onderdelen die ik hiervoor nog niet had gebruikt.  
+![gif](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/lotus.gif)  
 
-Daarnaast ook met media queries gewerkt om de site responsive te maken. Dit is iets wat ik nog weinig had gebruikt en waar ik nu comfortabel mee kan werken.
-[responsive gif]
+Daarnaast ook met media queries gewerkt om de site responsive te maken. Dit is iets wat ik nog weinig had gebruikt en waar ik nu comfortabel mee kan werken.  
+![gif](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/responsive.gif)  
 ## Browser Tech
+De merendeel van de site werkt zonder Javascript, sommige pagina's zijn alleen wat onoverzichtelijker vanwege inklapbare delen die allemaal zijn uitgeklapt.  
+
+Dingen zoals functionaliteit voor screenreaders zijn we helaas niet aan toe gekomen. Onze site heeft wel goed contrast op de meeste plekken, knoppen vallen op omdat we vooral kleuren zoals groen daarvoor gebruiken. Daarnaast hebben veel elementen borders om ervoor te zorgen dat ze duidelijk van de achtergrond afstaan. 
 
 ## Web Design
-Tijdens dit project hadden we een customer journey voor de site gemaakt. Hierin wilde bij de doelen en belangrijke punten van de gebruiker voor onszelf duidleijk maken.
-[customer journey]
+Tijdens dit project hadden we een customer journey voor de site gemaakt. Hierin wilde bij de doelen en belangrijke punten van de gebruiker voor onszelf duidleijk maken.  
+![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/customer%20journeyy-1.png)  
 
 Voor dit project heb ik ook enkele inclusive en exclusive design principles geprobeerd te volgen waar ik deze nodig vond. De site heeft een duidelijke samenhang daarom was het belangrijk dat ik "be consistent" volgde zodat mijn pagina's en onderdelen bij de rest paste. Het was moeilijk om hier ver vanaf te gaan omdat het punt van de site was dat het als een groot product zou voelen.
 
@@ -150,6 +153,13 @@ Daarnaast zijn de animaties die gemaakt zijn weer meer een onderdeel van "add no
 Voor dit project hebben we uiteindelijk niet met mensen getest, alleen het werk aan Dalton en Ivo laten zien. Dit is iets wat ik bij een volgende sprint zeker zou doen. Hoewel de feedback die we kregen al veel onduidelijkheden uit de site heeft gehaald zullen er zeker nog dingen inzitten die beter kunnen. Met goede user tests zouden deze laatste punten er mogelijk ook nog uitgehaald kunnen worden. 
 
 ## Progressive web apps
+We hebben enkele stappen genomen om de critical rendering path van de site te verbeteren.
+- Css minify
+- HTML minify
+- gzip compressie
+
+![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/Screenshot_22.png)  
+![image](https://github.com/mordock/meesterproef-1920/blob/master/docs/img/Screenshot_23.png)  
 
 ## Real Time Web
 Dit vak heb ik niet toegepast binnen dit project. Bij de onderdelen waar ik mee bezig was en wat de opdrachtgever van mij verwachtte was dat ook niet nodig. Bij een volgend project zou ik dit mogelijk wel gebruiken als dit een vereiste is. 
