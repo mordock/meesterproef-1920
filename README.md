@@ -1,3 +1,10 @@
+# Lyvup
+## Project Repo
+https://github.com/StefanGerrits2/Lyvup-prototype
+
+## Live link
+https://lyvup.herokuapp.com/
+
 # Product biografie
 ## Week 1
 Debriefing: https://docs.google.com/document/d/1k6jxrWo8OHFOuZHMdzcoYmvllLn1UZRwva9E6VF0YwA/edit?usp=sharing
@@ -89,12 +96,26 @@ Hier heb ik dus uiteindelijk voor besloten om dit niet toe te passen in mijn pag
 
 ## CSS To The Rescue
 ### The student understands the broader scope of CSS
+Tijdens dit project heb ik CSS gebruikt voor syling, interactiviteit, responsiveness en animaties om te laten zien wat ik met CSS kan. Deze onderdelen worden in de volgende delen beschreven. 
 
 ### The student understands the progressive enhancement parts of CSS
+In mijn project maak ik onderandere gebruikt van classes, ID's en nesting in SCSS om een zo duidelijk mogelijke code te schrijven.
+[screenshot 20]
+
+Ook heb ik geprobeerd om css classes te maken die herbruikbaar zijn voor mij en mijn team.
+[screenshot 21]
+Bijvoorbeeld deze flex class die ikzelf vaak gebruik omdat veel elementen in ons design horizontaal staan bijvoorbeeld. 
 
 ### The student understands the interactive parts of CSS
+Ik gebruikt meerdere hover effecten om belangrijke of klikbare elementen weer te geven, zoals de achievements die wat tekst laten zien of de challenges die onder een bepaald thema horen.
+[hover gif]
 
 ### The student has been experimenting
+Voor het gamification onderdeel van dit project heb ik een animatie gemaakt die onderandere gebruik maakt van rotatie en speciale pivot-points om ervoor te zorgen dat het op een bloem lijkt. Dit waren onderdelen die ik hiervoor nog niet had gebruikt. 
+[lotus gif]
+
+Daarnaast ook met media queries gewerkt om de site responsive te maken. Dit is iets wat ik nog weinig had gebruikt en waar ik nu comfortabel mee kan werken.
+[responsive gif]
 ## Browser Tech
 
 ## Web Design
