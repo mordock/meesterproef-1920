@@ -166,3 +166,10 @@ We hadden helaas geen tijd om een service worker op te zetten. Dit zou de perfor
 
 ## Real Time Web
 Dit vak heb ik niet toegepast binnen dit project. Bij de onderdelen waar ik mee bezig was en wat de opdrachtgever van mij verwachtte was dat ook niet nodig. Bij een volgend project zou ik dit mogelijk wel gebruiken als dit een vereiste is. 
+
+## Conclusie
+Terwijl het project misschien niet helemaal startte zoals we allemaal hadden verwacht, hadden we toch een heel goed einde. Dalton en Ivo waren erg tevreden over wat we hadden gemaakt en we hadden er allemaal een goed gevoel over. 
+
+Tijdens dit project heb ik veel geleerd over communicatie tegenover een opdrachtgever en wanneer je wel en niet wat moet zeggen. Dit werd vooral duidelijk toen het duidelijk was dat we op de eerdere manier de meesterproef niet zouden halen. Dit zorgde ervoor dat we even een harde stand tegen Dalton moesten zetten. Hier had hij begrip voor en we zijn met z'n alle tot een goede compromis gekomen.
+
+Daarnaast heb ik veel geleerd over hoe je binnen web development in een team werkt, dit is zeker iets wat ik voor later mee ga nemen. Voor een volgend project ga ik wel proberen om wat meer gevarieerd werk te regelen. Dit project heb ik veel aan individuele pagina's gewerkt en veel CSS gedaan. Dit is iets wat ik later wat zou willen minderen.
